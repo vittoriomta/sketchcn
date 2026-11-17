@@ -7,6 +7,8 @@
 
 **sketchcn** is a sketch tool for shadcn/ui. Drag your own components onto a screen, link screens into a flow, and copy a brief your coding agent can build without guessing.
 
+<img src="media/demo.gif" alt="A blank screen gets a sidebar, a header and an empty state from Blocks, a badge is dragged in, and the prompt is copied" width="100%">
+
 ## Install
 
 ```bash
